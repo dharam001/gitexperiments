@@ -1,2 +1,8 @@
-this is a new file
+this is a html file
 vim second file	
+<html>
+<head></head>
+<body>
+<h1>this is a heading line</h1>
+</body>
+</html>
