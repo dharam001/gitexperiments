@@ -1,7 +1,5 @@
-experimenting with git
+README.md
 
-Making second change.
-
-
-abc is workin with git.
+this is first vim line.
+let's cheak it out:
 
