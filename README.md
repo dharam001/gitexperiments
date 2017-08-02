@@ -1,5 +1,6 @@
 README.md
 
-this is first vim line.
+now ,i came to know how its going on...
+
 let's cheak it out:
 
